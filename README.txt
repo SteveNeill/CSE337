@@ -1,0 +1,1 @@
+The goal of this project is to practice using a Git enviorment. It wants us to go through the basics of running a project through GIT and making sure we are familiar with some of the most common commands. The projec that we are using making a repository for is a program that prints out the "99 bottles of beer" song.
